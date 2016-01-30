@@ -1,6 +1,7 @@
 ![Karumi logo][karumilogo] KataSuperHeroes for Android. [![Build Status](https://travis-ci.org/Karumi/KataSuperHeroesAndroid.svg?branch=kata-super-heroes)](https://travis-ci.org/Karumi/KataSuperHeroesAndroid)
 ============================
 
+
 - We are here to practice UI Testing.
 - We are going to use [Espresso][espresso] to interact with the Application UI.
 - We are going to use [Dagger2][dagger2] to replace production code with [Test Doubles][testDoubles].
